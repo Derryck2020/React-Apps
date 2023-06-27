@@ -162,6 +162,6 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 
 -  .env : must be included in .gitignore
 
-7a53e367d1msh0c10aa7de67e8a4p14f065jsn8ba3549d0fd0
+
 
 https://api.nasa.gov/planetary/apod?api_key=iqn4tpscAL1F4GLnD5Ysl9J4A9IKZrXu8I33owRf&start_date=2020-05-10&end_date=2020-06-09
